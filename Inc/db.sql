@@ -1,0 +1,8 @@
+-- phpMyAdmin SQL Dump
+-- version 4.9.1
+-- https://www.phpmyadmin.net/
+--
+-- Host: 198.23.60.36:3306
+-- Generation Time: Mar 11, 2020 at 06:35 PM
+-- Server version: 5.6.26
+-- PHP Version: 7.0.33-0+deb9u7
